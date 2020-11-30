@@ -6,7 +6,7 @@
 	
 	<body>
 		<div class="principal">
-			<h1>Digite o seu nome :)</h1>
+			<h1>Veja quais são os números impares dentro uma sequência</h1>
 		
 			<form action='cod.php' method='POST'>
 			
