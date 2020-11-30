@@ -1,7 +1,7 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="utf-8">
-		<title>Meu Projeto</title>
+		<title>Impar em PHP</title>
 	</head>
 	
 	<body>
